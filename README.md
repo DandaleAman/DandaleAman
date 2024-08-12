@@ -10,7 +10,7 @@
 - 💬 Ask me about **AWS, Linux, DevOps tools-Git, Git hub, Docker, Jenkins, Shell Scripting , Webservers-NginX, Apache, Networking.**
 
 - 📫 How to reach me **dandale.aman@gmail.com**
-
+- Connect with me on LinkedIn: https://www.linkedin.com/in/amandandale/
 
 <p align="left">
 </p>
