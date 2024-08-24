@@ -1,4 +1,5 @@
   ![logo](https://github.com/Amand66/Amand66/blob/master/devops-pic.jpeg)
+  ![CaseStudy](https://www.canva.com/design/DAGJrbBGtZI/3eP3Avr0lvaxGk-maxhdjA/edit)
 
   <h1 align="center">Hi 👋, I'm Aman Dandale</h1>
 <h3 align="center">Cloud Computing Enthusiast | skilled in AWS (EC2, S3, VPC and more), DevOps, Linux, and Basic Networking | Enhancing IT Infrastructure for Efficiency</h3>
